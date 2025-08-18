@@ -20,7 +20,7 @@ public class MultiValue<V, V1> {
         this.first = first;
     }
 
-    public V1    second() {
+    public V1 second() {
         return second;
     }
 

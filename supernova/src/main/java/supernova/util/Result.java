@@ -1,9 +1,5 @@
 package supernova.util;
 
-import javassist.CtClass;
-
-import java.util.ArrayList;
-import java.util.List;
 import java.util.function.Consumer;
 import java.util.function.Function;
 
