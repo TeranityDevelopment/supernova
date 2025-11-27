@@ -7,6 +7,11 @@
     <groupId>net.teranity.supernova</groupId>
     <artifactId>supernova-parent</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>supernova</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>22</maven.compiler.source>
